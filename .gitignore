@@ -1,0 +1,9 @@
+app.log
+
+/public/lib
+/build
+/node_modules
+/ref_projs
+/typings
+
+
