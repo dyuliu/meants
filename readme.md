@@ -1,6 +1,4 @@
-Current developing branch is "dev2"
-
-**CnnVis** focuses on visualizing the training process of convolutional neural network
+**MeanTS**
 
 ## Before you begin ##
 We recommend you read about the basic building blocks that assemble a CnnVis application:
